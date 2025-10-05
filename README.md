@@ -26,10 +26,7 @@ Este script em Python compara os usuários que você segue com aqueles que te se
 3. Solicite o download informando seu e-mail.
 4. Após receber o e-mail do Instagram, baixe e extraia o arquivo ZIP.
 5. Localize os arquivos JSON na pasta `followers_and_following`.
-6. Renomeie:
-   - `followers_1.json` → `followers_1.json`
-   - `following.json` → `following.json`
-7. Coloque esses arquivos na mesma pasta do script.
+6. Coloque esses arquivos na mesma pasta do script.
 
 ---
 
